@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1332104486 source:c:\users\tomek\desktop\is\ag\lab05\lab5_kakoltomasz\lab5_kakol_tomasz\random.cpp
+	<fstream>
+	<string>
+	<math.h>
+	<cstdlib>
+	"random.h"
+
+1542061313 c:\users\tomek\desktop\is\ag\lab05\lab5_kakoltomasz\lab5_kakol_tomasz\random.h
+
+1544379877 source:c:\users\tomek\desktop\is\ag\lab05\lab5_kakoltomasz\lab5_kakol_tomasz\sga_01.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	"SGA_Facade.h"
+	"SGA_Kakol.h"
+	"random.h"
+
+1544379551 c:\users\tomek\desktop\is\ag\lab05\lab5_kakoltomasz\lab5_kakol_tomasz\sga_facade.h
+	<iostream>
+
+1544379588 c:\users\tomek\desktop\is\ag\lab05\lab5_kakoltomasz\lab5_kakol_tomasz\sga_kakol.h
+	"SGA_Facade.h"
+
+1544379757 source:c:\users\tomek\desktop\is\ag\lab05\lab5_kakoltomasz\lab5_kakol_tomasz\sga_facade.cpp
+	"SGA_Facade.h"
+
+1544378992 source:c:\users\tomek\desktop\is\ag\lab05\lab5_kakoltomasz\lab5_kakol_tomasz\sga_kakol.cpp
+	<iostream>
+	<stdio.h>
+	<fstream>
+	<stdlib.h>
+	<cmath>
+	"SGA_Kakol.h"
+	"random.h"
+	"SGA_Facade.h"
+	<string.h>
+
+1332104486 c:\users\tomek\desktop\is\ag\lab05\lab5_kakoltomasz\lab5_kakol_tomasz\random.cpp
+	<fstream>
+	<string>
+	<math.h>
+	<cstdlib>
+	"random.h"
+
+1544377138 c:\users\tomek\desktop\is\ag\lab05\lab5_kakoltomasz\lab5_kakol_tomasz\sga_facade.cpp
+	"SGA_Facade.h"
+

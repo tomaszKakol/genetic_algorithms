@@ -1,0 +1,5 @@
+Simple Genethic Algorithm
+
+W pliku log.txt znajduj¹ siê wypisane ci¹gi osobników.
+'jedynki' zbieraj¹ siê na koñcach ci¹gów (najstarsze bity, podobnie jak w prezentacji z wyk³adu).
+Na tej podstawie podejrzewam ¿e algorytm jest poprawnie zaimplementowany.
